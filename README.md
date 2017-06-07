@@ -1,1 +1,1 @@
-# mongolia.githud
+# http://mongolia.githud
